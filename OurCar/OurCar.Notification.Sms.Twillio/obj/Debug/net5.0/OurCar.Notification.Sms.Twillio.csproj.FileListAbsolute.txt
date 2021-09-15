@@ -1,0 +1,11 @@
+C:\Users\vrluc\Work\learning\OurCar\OurCar\OurCar.Notification.Sms.Twillio\bin\Debug\net5.0\OurCar.Notification.Sms.Twillio.deps.json
+C:\Users\vrluc\Work\learning\OurCar\OurCar\OurCar.Notification.Sms.Twillio\bin\Debug\net5.0\OurCar.Notification.Sms.Twillio.dll
+C:\Users\vrluc\Work\learning\OurCar\OurCar\OurCar.Notification.Sms.Twillio\bin\Debug\net5.0\ref\OurCar.Notification.Sms.Twillio.dll
+C:\Users\vrluc\Work\learning\OurCar\OurCar\OurCar.Notification.Sms.Twillio\bin\Debug\net5.0\OurCar.Notification.Sms.Twillio.pdb
+C:\Users\vrluc\Work\learning\OurCar\OurCar\OurCar.Notification.Sms.Twillio\obj\Debug\net5.0\OurCar.Notification.Sms.Twillio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vrluc\Work\learning\OurCar\OurCar\OurCar.Notification.Sms.Twillio\obj\Debug\net5.0\OurCar.Notification.Sms.Twillio.AssemblyInfoInputs.cache
+C:\Users\vrluc\Work\learning\OurCar\OurCar\OurCar.Notification.Sms.Twillio\obj\Debug\net5.0\OurCar.Notification.Sms.Twillio.AssemblyInfo.cs
+C:\Users\vrluc\Work\learning\OurCar\OurCar\OurCar.Notification.Sms.Twillio\obj\Debug\net5.0\OurCar.Notification.Sms.Twillio.csproj.CoreCompileInputs.cache
+C:\Users\vrluc\Work\learning\OurCar\OurCar\OurCar.Notification.Sms.Twillio\obj\Debug\net5.0\OurCar.Notification.Sms.Twillio.dll
+C:\Users\vrluc\Work\learning\OurCar\OurCar\OurCar.Notification.Sms.Twillio\obj\Debug\net5.0\ref\OurCar.Notification.Sms.Twillio.dll
+C:\Users\vrluc\Work\learning\OurCar\OurCar\OurCar.Notification.Sms.Twillio\obj\Debug\net5.0\OurCar.Notification.Sms.Twillio.pdb

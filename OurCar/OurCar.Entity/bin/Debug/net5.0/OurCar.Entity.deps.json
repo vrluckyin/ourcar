@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "OurCar.Entity/1.0.0": {
+        "dependencies": {
+          "OurCar.Common": "1.0.0"
+        },
+        "runtime": {
+          "OurCar.Entity.dll": {}
+        }
+      },
+      "OurCar.Common/1.0.0": {
+        "runtime": {
+          "OurCar.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OurCar.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OurCar.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
