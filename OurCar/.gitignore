@@ -320,4 +320,4 @@ __pycache__/
 /Web/package-lock.json
 /package-lock.json
 
-**/*.*/obj/
+**/**/obj
